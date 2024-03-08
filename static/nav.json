@@ -417,50 +417,50 @@
 	"_id": "blog",
 	"classify": "编程能力",
 	"icon": "ti-medall-alt",
-	"sites": [{
+	"sites":  [{
 			"name": "LintCode 炼码",
 			"href": "https://www.lintcode.com/problem/",
-			"desc": "",
+			"desc": "算法刷题网站",
 			"logo": "https://jsn.lintcode.com/lintcode-react/assets/147c36e408473e616fdc..svg"
 		},{
 			"name": "【赛码网】",
 			"href": "https://www.acmcoder.com/#/practice/company",
 			"desc": "免费在线考试系统、在线面试系统-易用稳定专业",
-			"logo": ""
+			"logo": "https://cdn.acmcoder.com/release/www/2.0.1/images/logo.png"
 		},{
 			"name": "牛客",
 			"href": "http://www.nowcoder.com/",
-			"desc": "",
+			"desc": "牛客网是一个专注于互联网IT技术等领域的求职找工作平台，提供笔试题库、面试经验、实习招聘等服务",
 			"logo": "https://static.nowcoder.com/fe/file/logo/1.png"
 		},{
 			"name": "AcWing",
 			"href": "https://www.acwing.com/",
-			"desc": "",
+			"desc": "算法刷题网站",
 			"logo": "https://www.acwing.com/"
 		},{
-			"name": "蓝桥杯真题(更新至2023年) - 编程题库 - C语言网",
+			"name": "蓝桥杯真题",
 			"href": "https://www.dotcpp.com/oj/lanqiao/",
-			"desc": "",
+			"desc": "编程题库 - C语言网",
 			"logo": "https://www.dotcpp.com/oj/lanqiao/"
 		},{
-			"name": "licitc 的个人中心 - 洛谷 | 计算机科学教育新生态",
+			"name": "洛谷",
 			"href": "https://www.luogu.com.cn/",
-			"desc": "",
+			"desc": " 计算机科学教育新生态",
 			"logo": "https://www.luogu.com.cn/"
 		},{
 			"name": "算法入门指引",
 			"href": "https://docs.qq.com/mind/DU01SVGpab2tWdlNj",
-			"desc": "",
+			"desc": "新手起飞之路",
 			"logo": "https://docs.qq.com/mind/DU01SVGpab2tWdlNj"
 		},{
-			"name": "博客园 - 开发者的网上家园",
+			"name": "博客园",
 			"href": "https://www.cnblogs.com/",
-			"desc": "",
-			"logo": "https://www.cnblogs.com/"
+			"desc": "开发者的网上家园",
+			"logo": "https://www.cnblogs.com/images/logo.svg?v=2SMrXdIvlZwVoB1akyXm38WIKuTHVqvGD0CweV-B6cY"
 		},{
 			"name": "Stack Overflow",
-			"href": "https://stackoverflow.com/questions",
-			"desc": "Newest Questions",
-			"logo": "https://stackoverflow.com/questions"
+			"href": "https://stackoverflow.com/",
+			"desc": "全球最大的IT问答网站",
+			"logo": "https://bkimg.cdn.bcebos.com/pic/4034970a304e251f95cacabb24d0de177f3e6709f560?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70"
 		}]
 }]
