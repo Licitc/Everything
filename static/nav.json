@@ -418,49 +418,49 @@
 	"classify": "编程能力",
 	"icon": "ti-medall-alt",
 	"sites": [{
-        "name": "LintCode 炼码",
-        "href": "https://www.lintcode.com/problem/",
-        "desc": "",
-        "logo": "https://www.lintcode.com/problem/"
-    },{
-        "name": "【赛码网】免费在线考试系统、在线面试系统-易用稳定专业",
-        "href": "https://www.acmcoder.com/#/practice/company",
-        "desc": "",
-        "logo": ""
-    },{
-        "name": "http://www.nowcode.com/",
-        "href": "http://www.nowcode.com/",
-        "desc": "",
-        "logo": ""
-    },{
-        "name": "AcWing",
-        "href": "https://www.acwing.com/",
-        "desc": "",
-        "logo": "https://www.acwing.com/"
-    },{
-        "name": "蓝桥杯真题(更新至2023年) - 编程题库 - C语言网",
-        "href": "https://www.dotcpp.com/oj/lanqiao/",
-        "desc": "",
-        "logo": "https://www.dotcpp.com/oj/lanqiao/"
-    },{
-        "name": "licitc 的个人中心 - 洛谷 | 计算机科学教育新生态",
-        "href": "https://www.luogu.com.cn/user/1005565#mine.contest",
-        "desc": "",
-        "logo": "https://www.luogu.com.cn/user/1005565#mine.contest"
-    },{
-        "name": "算法入门指引",
-        "href": "https://docs.qq.com/mind/DU01SVGpab2tWdlNj",
-        "desc": "",
-        "logo": "https://docs.qq.com/mind/DU01SVGpab2tWdlNj"
-    },{
-        "name": "博客园 - 开发者的网上家园",
-        "href": "https://www.cnblogs.com/",
-        "desc": "",
-        "logo": "https://www.cnblogs.com/"
-    },{
-        "name": "Newest Questions - Stack Overflow",
-        "href": "https://stackoverflow.com/questions",
-        "desc": "",
-        "logo": "https://stackoverflow.com/questions"
-    }]
+			"name": "LintCode 炼码",
+			"href": "https://www.lintcode.com/problem/",
+			"desc": "",
+			"logo": "https://jsn.lintcode.com/lintcode-react/assets/147c36e408473e616fdc..svg"
+		},{
+			"name": "【赛码网】",
+			"href": "https://www.acmcoder.com/#/practice/company",
+			"desc": "免费在线考试系统、在线面试系统-易用稳定专业",
+			"logo": ""
+		},{
+			"name": "牛客",
+			"href": "http://www.nowcoder.com/",
+			"desc": "",
+			"logo": "https://static.nowcoder.com/fe/file/logo/1.png"
+		},{
+			"name": "AcWing",
+			"href": "https://www.acwing.com/",
+			"desc": "",
+			"logo": "https://www.acwing.com/"
+		},{
+			"name": "蓝桥杯真题(更新至2023年) - 编程题库 - C语言网",
+			"href": "https://www.dotcpp.com/oj/lanqiao/",
+			"desc": "",
+			"logo": "https://www.dotcpp.com/oj/lanqiao/"
+		},{
+			"name": "licitc 的个人中心 - 洛谷 | 计算机科学教育新生态",
+			"href": "https://www.luogu.com.cn/",
+			"desc": "",
+			"logo": "https://www.luogu.com.cn/"
+		},{
+			"name": "算法入门指引",
+			"href": "https://docs.qq.com/mind/DU01SVGpab2tWdlNj",
+			"desc": "",
+			"logo": "https://docs.qq.com/mind/DU01SVGpab2tWdlNj"
+		},{
+			"name": "博客园 - 开发者的网上家园",
+			"href": "https://www.cnblogs.com/",
+			"desc": "",
+			"logo": "https://www.cnblogs.com/"
+		},{
+			"name": "Stack Overflow",
+			"href": "https://stackoverflow.com/questions",
+			"desc": "Newest Questions",
+			"logo": "https://stackoverflow.com/questions"
+		}]
 }]
